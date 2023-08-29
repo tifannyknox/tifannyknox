@@ -1,16 +1,54 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**tifannyknox/tifannyknox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the <b>dark side</b> of my world.
 
-Here are some ideas to get you started:
+## Senior Fullstack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/-Java-orange" alt="Java">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-TypeScript-yellow" alt="TypeScript">
+  </a>
+     <a href="#">
+    <img src="https://img.shields.io/badge/-Angular-red" alt="Angular">
+  </a>
+     <a href="#">
+    <img src="https://img.shields.io/badge/-VueJS-green" alt="Vue.js">
+  </a>
+     <a href="#">
+    <img src="https://img.shields.io/badge/-Dart-purple" alt="Dart">
+  </a>
+     <a href="#">
+    <img src="https://img.shields.io/badge/-Flutter-blue" alt="Flutter">
+  </a>
+</div>
+
+ <div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/-PHP-blue" alt="PHP">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-AWS-grey" alt="AWS">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/-SQL Server-white" alt="SQL Server">
+  </a>
+     <a href="#">
+    <img src="https://img.shields.io/badge/-Docker-blue" alt="Docker">
+  </a>
+     <a href="#">
+    <img src="https://img.shields.io/badge/-Mongo DB-green" alt="MongoDB">
+  </a>
+     <a href="#">
+    <img src="https://img.shields.io/badge/-Node JS-green" alt="Nodejs">
+  </a>
+     <a href="#">
+    <img src="https://img.shields.io/badge/-React-blue" alt="React">
+  </a>
+</div>
+    
